@@ -23,6 +23,8 @@
   "dependencies": {
     "@nomiclabs/hardhat-etherscan": "^3.1.7",
     "@openzeppelin/contracts": "^4.9.3",
+    "@openzeppelin/contracts-upgradeable": "^5.0.0",
+    "@openzeppelin/hardhat-upgrades": "^2.4.1",
     "dotenv": "^16.3.1"
   }
 }
